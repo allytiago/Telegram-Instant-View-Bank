@@ -1,7 +1,12 @@
 [
   {
     "title": "Fala, Nubank",
-    "url": "https://blog.nubank.com.br",
+    "url": "blog.nubank.com.br",
     "rhash": "02e4b6fbd19b38",
+  }
+  {
+    "title": "Hashnode",
+    "url": "hashnode.dev",
+    "rhash": "452ebf68344428",
   }
 ]
